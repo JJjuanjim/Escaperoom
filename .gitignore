@@ -28,3 +28,9 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw?
+
+# Documentos Word y scripts auxiliares
+*.docx
+generar_word_apa.js
+
+
